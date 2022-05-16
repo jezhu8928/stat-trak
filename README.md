@@ -15,12 +15,13 @@ After a meeting with stakeholders (parents and coaches on our respective youth t
 ### Features
 The app includes functionality allowing statisticians to create and manage teams, view stats from an individual game or accumulated across a season, and track simple stats during a live game.
 <div>
-    <img width="500" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494606-ba86b73c-c96b-4db7-ad2a-9eae59edf2b1.png">
-    <img width="500" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494626-e445d3e8-d674-4ac9-99d2-56000c7e7e37.png">
-    <img width="500" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494627-467d32db-9a07-4439-9ba5-44b33ec8dc94.png">
-    <img width="500" alt="Screen Shot 2022-05-15 at 5 35 56 PM" src="https://user-images.githubusercontent.com/57771817/168494842-8337b567-8b88-4432-9567-bdb6e29f657b.png">
+    <img width="450" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494606-ba86b73c-c96b-4db7-ad2a-9eae59edf2b1.png">
+    <img width="450" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494626-e445d3e8-d674-4ac9-99d2-56000c7e7e37.png">
+    <img width="450" alt="Screen Shot 2022-05-15 at 5 28 52 PM" src="https://user-images.githubusercontent.com/57771817/168494627-467d32db-9a07-4439-9ba5-44b33ec8dc94.png">
+    <img width="450" alt="Screen Shot 2022-05-15 at 5 35 56 PM" src="https://user-images.githubusercontent.com/57771817/168494842-8337b567-8b88-4432-9567-bdb6e29f657b.png">
 </div>
 
+user guide: https://docs.google.com/document/d/1ncdK_vUMKdgwdi7c33COluB9coGcI_ZAqEla4ulkdq0/edit?usp=sharing
 
 ### Future Considerations & Next Steps 
 While improvements on our initial iteration of this app have yet to be made, we're both interested in building upon this foundation in the future. Given our lack of experience with Android, much of the development we did with this app was not done using modern or more complex Android concepts (e.g. Compose, Room database). Beyond improving the efficiency/modernizing the architecture of the app, we'd also want to do the following:
